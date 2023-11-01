@@ -2,8 +2,9 @@ import pyautogui
 from time import sleep
 
 # NO PROMPT DE COMANDO DO PC, DIGITE:
-# >>> from mouseinfo import mouseInfo
-# >>> mouseInfo()
+# python
+# from mouseinfo import mouseInfo
+# mouseInfo()
 
 # 1- CLICAR E DIGITAR MEU USUARIO
 pyautogui.click()
